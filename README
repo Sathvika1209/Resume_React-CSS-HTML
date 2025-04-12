@@ -1,0 +1,6 @@
+First,
+  npx create-react-app simple-resume
+Next,
+  npm start
+
+The output will be a Simple UI Resume format
